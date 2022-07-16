@@ -57,4 +57,7 @@ ___
 
 ### :fire: My Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Erhtric)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Erhtric&theme=monokai&hide_border=False)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erhtric&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+
