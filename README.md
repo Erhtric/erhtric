@@ -19,7 +19,7 @@ ___
 I am an Artificial Intelligence student at the University of Bologna (@unibo). 
 
 - :round_pushpin:  Bologna, Italy.
-- :seedling:  Devouring the latest AI articles and papers: currently focused on *Computational Ethics*, *Time Series* and *Anomaly Detection*.
+- :seedling:  Devouring the latest AI articles and papers: currently focused on *Natural Language Processing*, *Computational Ethics*, *Time Series Analysis* and *Anomaly Detection*.
 - :zap:   In my free time I am a wannabe chef :spaghetti:, an avid reader :books: and a beginner powerlifter :swimmer:.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ericrossetto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ericrossetto/)
 
