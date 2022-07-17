@@ -16,7 +16,7 @@ ___
 
 ## :man_technologist: About Me:
 
-I am an Artificial Intelligence student at the University of Bologna (@unibo). 
+I am an Artificial Intelligence master student at the University of Bologna (@unibo). 
 
 - :round_pushpin:  Bologna, Italy.
 - :seedling:  Devouring the latest AI articles and papers: currently focused on *Natural Language Processing*, *Computational Ethics*, *Time Series Analysis* and *Anomaly Detection*.
