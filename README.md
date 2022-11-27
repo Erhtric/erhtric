@@ -19,8 +19,8 @@ ___
 I am an Artificial Intelligence master student at the University of Bologna (@unibo). 
 
 - :round_pushpin:  Bologna, Italy -> Hamburg, Germany.
-- :seedling:  Devouring the latest AI articles and papers: currently focused on *Natural Language Processing*, *Computational Ethics*, *Explainable AI (XAI)*.
-- :zap:   In my free time I am a wannabe chef :spaghetti:, an avid reader :books: and a beginner powerlifter :swimmer:.
+- :seedling:  Devouring the latest AI articles and papers: currently fully immersed on *Natural Language Processing*, *Computational Ethics*, *Explainable AI (XAI)*.
+- :zap:  Wannabe chef :spaghetti:, avid reader :books: and a beginner powerlifter :swimmer:.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ericrossetto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ericrossetto/)
 
 ___
