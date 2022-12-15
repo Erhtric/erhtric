@@ -16,7 +16,7 @@ ___
 
 ## :man_technologist: About Me:
 
-I am an Artificial Intelligence master student at the University of Bologna (@unibo). 
+I am an Artificial Intelligence master student at the University of Bologna (@unibo). Currently I am writing my master thesis at Airbus on *Explainable AI for Time Series Anomaly Detection*.
 
 - :round_pushpin:  Bologna, Italy -> Hamburg, Germany.
 - :seedling:  Devouring the latest AI articles and papers: currently fully immersed on *Natural Language Processing*, *Computational Ethics*, *Explainable AI (XAI)*.
