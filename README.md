@@ -42,12 +42,3 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-plain.svg" title="OpenCV" **alt="OpenCV" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
 </div>
-
-___
-
-### :fire: My Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Erhtric&theme=monokai&hide_border=False)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erhtric&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-
