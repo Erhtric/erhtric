@@ -16,7 +16,7 @@ ___
 
 ## :man_technologist: About Me:
 
-I am an Artificial Intelligence master student at the University of Bologna (@unibo).
+I have a Master of Science in Artificial Intelligence (Computer Science) at the University of Bologna (@unibo) and a Bachelor in Computer Science at the University of Udine.
 
 - :round_pushpin:  Bologna, Italy.
 - :seedling:  Devouring the latest AI articles and papers: currently fully immersed on *Natural Language Processing*, *Computational Ethics*, *Explainable AI (XAI)*.
