@@ -18,7 +18,7 @@ ___
 
 I have a Master of Science in Artificial Intelligence (Computer Science) at the University of Bologna (@unibo) and a Bachelor in Computer Science at the University of Udine.
 
-- :round_pushpin:  Bologna, Italy.
+- :round_pushpin:  Bologna, Italy & Lugano, Switzerland.
 - :seedling:  Devouring the latest AI articles and papers: currently fully immersed on *Natural Language Processing*, *Computational Ethics*, *Explainable AI (XAI)*.
 - :zap:  Wannabe chef :spaghetti:, avid reader :books: and a beginner powerlifter :swimmer:.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ericrossetto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ericrossetto/)
