@@ -16,12 +16,13 @@ ___
 
 ## :man_technologist: About Me:
 
-I have a Master of Science in Artificial Intelligence (Computer Science) at the University of Bologna (@unibo) and a Bachelor in Computer Science at the University of Udine.
+I have a Master of Science in Artificial Intelligence (Computer Science) at the University of Bologna (@unibo) and a Bachelor in Computer Science at the University of Udine. I am currently a PhD student at IDSIA USI-SUPSI a joint research department located in Lugano, Switzerland.
 
-- :round_pushpin:  Bologna, Italy & Lugano, Switzerland.
-- :seedling:  Devouring the latest AI articles and papers: currently fully immersed on *Natural Language Processing*, *Computational Ethics*, *Explainable AI (XAI)*.
-- :zap:  Wannabe chef :spaghetti:, avid reader :books: and a beginner powerlifter :swimmer:.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ericrossetto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ericrossetto/)
+- :round_pushpin: Lugano, Switzerland.
+- :zap:  Passionate about cooking, but also to many anthropological, ethical, political and philosophical aspects of life. My interests are multi-displinary like my research interests :spaghetti:.
+- :mailbox: How to reach me:
+    - Institutional email (IDSIA USI-SUPSI): eric.rossetto@idsia.ch
+    - [![Linkedin Badge](https://img.shields.io/badge/-ericrossetto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ericrossetto/)
 
 ___
 
