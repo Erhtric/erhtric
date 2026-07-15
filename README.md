@@ -16,7 +16,7 @@ ___
 
 ## :man_technologist: About Me:
 
-I have a Master of Science in Artificial Intelligence (Computer Science) at the University of Bologna (@unibo) and a Bachelor in Computer Science at the University of Udine. I am currently a PhD student at IDSIA USI-SUPSI a joint research department located in Lugano, Switzerland.
+I have a Master of Science in Artificial Intelligence (Computer Science) at the University of Bologna (@unibo) and a Bachelor in Computer Science at the University of Udine. I am currently a PhD student in Causality, Probabilistic Graphical Models and Fairness at IDSIA USI-SUPSI a joint research department located in Lugano, Switzerland.
 
 - :round_pushpin: Lugano, Switzerland.
 - :zap:  Passionate about cooking, but also to many anthropological, ethical, political and philosophical aspects of life. My interests are multi-displinary like my research interests :spaghetti:.
@@ -31,7 +31,6 @@ ___
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" title="Java" **alt="Java" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-plain.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
